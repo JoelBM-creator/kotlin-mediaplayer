@@ -25,3 +25,5 @@ Right now, I'm studying in a higher degree of multiplatform application developm
 To contact me: [https://www.linkedin.com/in/joel-berenguer/](https://www.linkedin.com/in/joel-berenguer/)
 <br /><br />
 [![Watch the demo video: ](https://github.com/JoelBM-creator/kotlin-mediaplayer/blob/main/Preview.PNG)](https://www.loom.com/share/742c77dba6914c7bbd5d293e78633d8b)
+<br />
+Click UP in the image, to go in the demo video and view how work the application.

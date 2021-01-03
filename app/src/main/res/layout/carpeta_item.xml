@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dp"
+    android:background="@color/negro_500">
+    <ImageView
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:id="@+id/carpetaImagen"
+        android:src="@drawable/ic_baseline_folder_24"
+        android:layout_marginStart="10dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/nombreCarpeta"
+        android:text="Nombre Carpeta"
+        android:textSize="18sp"
+        android:layout_toEndOf="@id/carpetaImagen"
+        android:textColor="#00ffff"
+        android:layout_marginStart="10dp"
+        android:layout_centerVertical="true" />
+
+</RelativeLayout>
